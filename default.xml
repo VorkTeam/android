@@ -34,6 +34,8 @@
   <project path="device/samsung/p4-common" name="CyanogenMod/android_device_samsung_p4-common" />
   <project path="device/samsung/toro" name="CyanogenMod/android_device_samsung_toro" />
   <project path="device/samsung/tuna" name="CyanogenMod/android_device_samsung_tuna" />
+  <project path="device/lge/p990" name="VorkTeam/android_device_lge_p990" />
+  <project path="device/lge/star-common" name="VorkTeam/android_device_lge_star-common" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -178,7 +180,7 @@
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
-  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
+  <project path="hardware/libhardware_legacy" name="VorkTeam/android_hardware_libhardware_legacy" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
